@@ -1,0 +1,25 @@
+{
+    "mydata":[
+    {
+      "name": "Brandon Bort",  
+      "id": "bbort",
+      "salary": "Hidden",
+      "designation": "Full Stack Developer",
+      "image": ""
+    },
+    {
+        "name": "Mark Adams",  
+        "id": "madams",
+        "salary": "$3,005,000",
+        "designation": "Texas Tech Head Coach",
+        "image": ""
+    },
+    {
+        "name": "Chris Beard",  
+        "id": "cbeard",
+        "salary": "$5,255,000",
+        "designation": "University of Texas Head Coach",
+        "image": ""
+    }
+  ]
+}
